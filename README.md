@@ -1,6 +1,6 @@
 # Settlement Match
 
-A tool that helps people find open class action settlements actually qualify for, and shows whether they'll need proof to file a claim.
+A tool that helps people find open class action settlements they actually qualify for, and shows whether they'll need proof to file a claim.
 
 ## Status
 
